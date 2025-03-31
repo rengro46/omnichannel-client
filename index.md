@@ -2,7 +2,7 @@
 
 ---
 
-## Overview:
+## Overview
 
 Amazon Connect is a cloud-based contact center service designed to provide seamless customer interactions across multiple channels. This project aims to develop a custom omnichannel client that integrates voice, chat, email, and a ServiceNow feed into a single unified interface, enhancing agent productivity and improving customer experience.
 
@@ -42,7 +42,7 @@ Amazon Connect is a cloud-based contact center service designed to provide seaml
 
 ---
 
-### Sueccess Criteria
+### Success Criteria
 
 * Reduction in call handling time by at least 20%.
 * Increased first-contact resolution rate by 15%.
