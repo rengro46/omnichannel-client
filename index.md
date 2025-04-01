@@ -35,7 +35,6 @@ Amazon Connect is a cloud-based contact center service designed to provide seaml
 
 * Front-End: React.js or Angular for a responsive and intuitive user interface.
 * Back-End: AWS Lambda, Amazon API Gateway, and AWS AppSync for serverless scalability.
-* Back-End: AWS Lambda, Amazon API Gateway, and AWS AppSync for serverless scalability.
 * Integration Points: Amazon Connect Streams API, Amazon Simple Email Service (SES), ServiceNow REST API, and AWS AI/ML services.
 * Data Storage: Amazon DynamoDB or Amazon RDS for interaction history and analytics.
 * Authentication: AWS IAM, Amazon Cognito, and Single Sign-On (SSO) support.
